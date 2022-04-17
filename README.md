@@ -1,2 +1,1 @@
-# code-20211202-sohithkumar
-scalable json parser
+# scalable json parser implementation
